@@ -62,12 +62,6 @@ These wireframes greatly assisted us in developing these pages, as evidenced by 
 
 <img width="1440" alt="Screen Shot 2021-12-17 at 4 28 49 PM" src="https://user-images.githubusercontent.com/47910950/146610131-73d9d107-a353-42da-9478-6586a4ecf67e.png">
 
-
-### Free reign of design
-Designing our website's color scheme also took a while, but we ultimately decided on this:
-
-<img width="357" alt="Screen Shot 2021-12-17 at 4 26 23 PM" src="https://user-images.githubusercontent.com/47910950/146609943-fd956904-6394-4851-84b0-c7cf2453b469.png">
-
 ### Learning how to use & design our API around Firebase
 Firebase might be simpler to pick up, but there's still a learning curve. We used this web sequence diagram to orient ourselves.
 
